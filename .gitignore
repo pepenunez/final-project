@@ -131,5 +131,5 @@ dmypy.json
 # Mac settings
 .DS_Store
 
-# Raw datasets that can be downloaded in ()
+# Raw datasets that can be downloaded in (https://www.kaggle.com/elisaxxygao/foodrecsysv1)
 data/allrecipes-raw-data/* 
