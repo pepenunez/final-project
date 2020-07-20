@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac settings
+.DS_Store
+
+# Raw datasets that can be downloaded in ()
+data/allrecipes-raw-data/* 
