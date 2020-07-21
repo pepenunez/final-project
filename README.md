@@ -23,4 +23,21 @@ Ingredient recommender.
 
 ## Datasets
 Allrecipes (Kaggle) - 50.000 recipes with reviews. (count number of users + explore the data)
+
 Supermarket - https://www.supermarktcheck.de/
+
+## Demo
+Input
+
+Tomato | [Tomato, Onion, Tuna]
+
+## Output
+Onion
+
+Carrot
+
+Mushroom
+
+Water
+
+Milk
