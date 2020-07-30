@@ -22,9 +22,9 @@ Ingredient recommender.
 - Recipe builder
 
 ## Datasets
-Allrecipes (Kaggle) - 50.000 recipes with reviews. (count number of users + explore the data)
+Allrecipes (Kaggle) - https://www.kaggle.com/elisaxxygao/foodrecsysv1 - 50.000 recipes with reviews. (count number of users + explore the data)
 
-Supermarket - https://www.supermarktcheck.de/
+Supermarket - https://github.com/kklichowski/Third-Project - https://www.supermarktcheck.de/
 
 ## Demo
 Input
