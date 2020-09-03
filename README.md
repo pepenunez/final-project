@@ -1,4 +1,4 @@
-# Ingredient recommender
+# Grocery recommender
 Work in progress
 
 Pepe Nunez
