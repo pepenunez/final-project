@@ -34,8 +34,8 @@ Allrecipes (Kaggle) - https://www.kaggle.com/elisaxxygao/foodrecsysv1 - 50.000 r
 
 Supermarket - https://github.com/kklichowski/Third-Project - https://www.supermarktcheck.de/
 
-<a name="problems"/>
 ## Organization
+<a name="problems"/>
 
 - 00_demo.ipynb
 - 01_allrecipes-cleaning.ipynb - In this notebook I explore, clean and prepare the data.
