@@ -1,7 +1,7 @@
 # Grocery recommender
 Work in progress
 
-Pepe Nunez
+By Pepe Nunez
 
 [final-project] - August 2020 - Data Analytics Bootcamp, Berlin
 
@@ -60,3 +60,4 @@ Supermarket - https://github.com/kklichowski/Third-Project - https://www.superma
 <a name="links"/>
 
 - [Presentation](https://github.com/pepenunez/final-project/blob/master/Grocery%20recommender.pdf)
+- [Demo](https://github.com/pepenunez/final-project/blob/master/00_demo.ipynb)
