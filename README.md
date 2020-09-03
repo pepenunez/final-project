@@ -59,4 +59,4 @@ Supermarket - https://github.com/kklichowski/Third-Project - https://www.superma
 ## Links
 <a name="links"/>
 
-- Presentation(#final-project/grocery-recommender.pdf)
+- Presentation[a relative link](grocery-recommender.pdf)
