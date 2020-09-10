@@ -30,9 +30,7 @@ In any case, I'll have you covered with this Grocery Recommender. I've decided t
 I'd like to build a tool that can help new visitors to Berlin to optimize their grocery shopping process. To do so, the tool must:
 
 - Find the supermarket with highest product availability and lower prices
-
 - Translate the ingredients to the product reference in each supermarket
-
 - Recommend other products that the user might be interested in buying based on their current cart. 
 
 ## Datasets
@@ -43,15 +41,10 @@ I'd like to build a tool that can help new visitors to Berlin to optimize their 
 - **Supermarkets** (Ironhack former student) - https://github.com/kklichowski/Third-Project - A former Student from the Data Analytics Bootcamp successfuly scraped https://www.supermarktcheck.de/ to obtain information about the products offered in REWE, Aldi north, Aldi south, Lidl, Edeka, Kaufland. The data includes:
 
 - Name of ingredient (German)
-
 - Price
-
 - Unit
-
 - Pack size
-
 - Supermarket
-
 - Comparable price
 
 ## Workflow
